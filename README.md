@@ -8,7 +8,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LRBruni&layout=compact)](https://github.com/LRBruni/github-readme-stats)
 
-![Snake animation](https://github.com/LRBuni/LRBruni/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LRBruni/LRBruni/blob/output/github-contribution-grid-snake.svg)
 
 
  📫 Como me encontrar: <br>
