@@ -6,7 +6,7 @@
    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  </div>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LRBruni&layout=compact)](https://github.com/LRBruni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LRBruni&layout=compact&locale=pt-br)](https://github.com/LRBruni/github-readme-stats)
 
 ![Snake animation](https://github.com/LRBruni/LRBruni/blob/output/github-contribution-grid-snake.svg)
 
